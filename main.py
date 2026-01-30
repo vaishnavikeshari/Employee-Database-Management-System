@@ -1,4 +1,4 @@
-'''assignment on Employee_information_system which works on the
+'''Employee_information_system which works on the
 adding record,
 updating record,
 deleting record and
@@ -7,7 +7,7 @@ from mysql.connector import connect
 conn= connect(
     host="localhost",
     user="root",
-    password="Ayush@123",
+    password="Password",
     database="Employee_information_system"
 )
 curr=conn.cursor()
