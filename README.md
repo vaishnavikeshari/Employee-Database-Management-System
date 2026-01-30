@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a1f1efd3-40b9-4d80-9455-c65eabe662f0
+
 # Employee Database Management System
 
 It's a Python and Mysql based backend project which provide functionality of adding ,deleting and updating Employee data Digitally .It also help to easy manage and retrieval of data.
