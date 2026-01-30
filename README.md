@@ -15,13 +15,13 @@ EDMS is basically designed to handle employee data digitally and efficiently. Us
 ## Project Features :
 
 1.**Add data**:
-     * Store single or multiple record of Employee in a table
+     - Store single or multiple record of Employee in a table
 2.**Retrieval**:
-    * Can select and retrieve single or multiple employee data based on condition
+    - Can select and retrieve single or multiple employee data based on condition
 3.**Delete**:
-    * We can easily delete record of one or more than one employee
+    - We can easily delete record of one or more than one employee
 4.**Updation**:
-    * Employee records can be update if there is any wrong entry
+    - Employee records can be update if there is any wrong entry
 
 ## Getting Started :
 
