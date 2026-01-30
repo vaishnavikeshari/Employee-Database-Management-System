@@ -16,6 +16,8 @@ EDMS is basically designed to handle employee data digitally and efficiently. Us
 
 1.**Add data**:
      - Store single or multiple record of Employee in a table
+
+
 2.**Retrieval**:
     - Can select and retrieve single or multiple employee data based on condition
 3.**Delete**:
